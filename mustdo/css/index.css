@@ -13,7 +13,6 @@ li, a, button {
   font-family: "Enriqueta", serif;
   font-weight: 400;
   font-size: 20px;
-  color: #e96933;
   text-decoration: none;
 }
 
@@ -34,9 +33,27 @@ header {
 }
 
 .nav_links li a {
+  color: #e96933;
   transition: all 0.3s ease 0s;
 }
 
 .nav_links li a:hover {
   color: #e2a926;
+}
+
+button {
+  padding: 3px 10px;
+  background-color: rgba(15, 176, 142, 1);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+
+button:hover {
+    background-color: rgba(15, 176, 142, 0.8);
+}
+
+.css {
+  color: #03224d;
 }
