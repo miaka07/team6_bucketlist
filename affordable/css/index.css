@@ -57,3 +57,118 @@ button:hover {
 .css {
   color: #03224d;
 }
+
+div#content img {
+  display: block;
+  max-width: 800px;
+  min-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 3px 3px 10px 10px;
+}
+
+img.logo {
+  max-width: 60px;
+  height: auto;
+}
+
+h1 {
+  color: white;
+  font-family: 'Enriqueta', serif;
+  text-align: center;
+  font-size: 400%;
+  padding: 20px;
+}
+
+.container {
+  position: center;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+  position: absolute;
+  top: 138%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #0fb08e;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn:hover {
+  background-color: black;
+}
+
+.container .btn1 {
+  position: absolute;
+  top: 180%;
+  left: 36%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #0fb08e;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn1:hover {
+  background-color: black;
+}
+.container .btn2 {
+  position: absolute;
+  top: 230%;
+  left: 66%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #0fb08e;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn2:hover {
+  background-color: black;
+}
+
+.container .btn3 {
+  position: absolute;
+  top: 276%;
+  left: 33%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #0fb08e;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn3:hover {
+  background-color: black;
+}
+
+.container  a{text-decoration-color: #0fb08e;
+}
