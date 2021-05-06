@@ -57,3 +57,8 @@ button:hover {
 .css {
   color: #03224d;
 }
+
+img.logo {
+  max-width: 60px;
+  height: auto;
+}
