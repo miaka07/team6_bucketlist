@@ -58,9 +58,10 @@ button:hover {
   color: #03224d;
 }
 
-div#content {
-  display: flex;
-  align-items: center;
+div#content img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   padding: 10px;
 }
 
