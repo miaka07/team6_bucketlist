@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Enriqueta&display=swap');
+
+body {
+  align-items: center;
+  text-align: center;
+}
+
+h1 {
+  color: #03224d;
+  font-family: "Enriqueta", serif;
+  font-weight: 400;
+  font-size: 50px;
+  background-color: #e96933;
+}
+
+h2 {
+  margin-top: 70px;
+  margin-bottom: 40px;
+  color: #0fb08e;
+  font-family: "Enriqueta", serif;
+  font-weight: 400;
+  font-size: 30px;
+  background-size: 3%;
+}
+
+button {
+  margin-top: 70px;
+  margin-bottom: 40px;
+  color: #0fb08e;
+  font-family: "Enriqueta", serif;
+  font-weight: 400;
+  font-size: 30px;
+  background-size: 3%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #03224d;
+}
+
+li, a, button {
+  font-family: "Enriqueta", serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: #0fb08e;
+  background-color: none;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+}
+
+.logo {
+  cursor: pointer;
+}
+
+.nav_links li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.nav_links li a {
+  color: #e96933;
+  transition: all 0.3s ease 0s;
+}
+
+.nav_links li a:hover {
+  color: #e2a926;
+}
+
+
+button:hover {
+    background-color: rgba(15, 176, 142, 0.8);
+}
+
+.css {
+  color: #03224d;
+}
+
+/* Container needed to position the button. Adjust the width as needed */
+.container {
+  position: relative;
+  width: 40%;
+}
+
+/* Make the image responsive */
+.container img {
+  width: 100%;
+  height: auto;
+  margin-left: 430px;
+  margin-top: 40px;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+  position: absolute;
+  top: 70%;
+  left: 125%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #0fb08e;
+  color: white;
+  font-size: 16px;
+  padding: 12px 60px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn:hover {
+  background-color: black;
+}
+.container .btn1 {
+  position: absolute;
+  top: 70%;
+  left: 125%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #0fb08e;
+  color: white;
+  font-size: 16px;
+  padding: 12px 60px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn1:hover {
+  background-color: black;
+}
+.container .btn2 {
+  position: absolute;
+  top: 70%;
+  left: 125%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #0fb08e;
+  color: white;
+  font-size: 16px;
+  padding: 12px 60px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn2:hover {
+  background-color: black;
+}
+.container .btn3 {
+  position: absolute;
+  top: 70%;
+  left: 125%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #0fb08e;
+  color: white;
+  font-size: 16px;
+  padding: 12px 60px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn3:hover {
+  background-color: black;
+}
+.container .btn4 {
+  position: absolute;
+  top: 70%;
+  left: 125%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #0fb08e;
+  color: white;
+  font-size: 16px;
+  padding: 12px 60px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn4:hover {
+  background-color: black;
+}
+.container .btn5 {
+  position: absolute;
+  top: 70%;
+  left: 125%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #0fb08e;
+  color: white;
+  font-size: 16px;
+  padding: 12px 60px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn5:hover {
+  background-color: black;
+}
