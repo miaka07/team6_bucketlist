@@ -41,19 +41,43 @@ header {
   color: #e2a926;
 }
 
+h1 {
+  color: #03224d;
+  font-family: "Enriqueta", serif;
+  font-weight: 400;
+  font-size: 50px;
+  text-align: center;
+  background-color: #e96933;
+}
+
+img {
+margin-left: 30%;
+margin-top: 60px;
+border: solid 5px #e96933;
+}
+
 button {
   padding: 3px 10px;
   background-color: rgba(15, 176, 142, 1);
   border: none;
-  border-radius: 50px;
+  border-radius: 5px;
   cursor: pointer;
+  position: absolute;
   transition: all 0.3s ease 0s;
+  margin-left: 50%;
+  margin-top: 5px;
 }
 
 button:hover {
-    background-color: rgba(15, 176, 142, 0.8);
+    background-color: rgba(15, 176, 142, 0.2);
 }
+
 
 .css {
   color: #03224d;
+}
+
+img.logo {
+  max-width: 60px;
+  height: auto;
 }
