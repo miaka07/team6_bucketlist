@@ -41,6 +41,15 @@ header {
   color: #e2a926;
 }
 
+h1 {
+  color: #03224d;
+  font-family: "Enriqueta", serif;
+  font-weight: 400;
+  font-size: 50px;
+  text-align: center;
+  background-color: #e96933;
+}
+
 button {
   padding: 3px 10px;
   background-color: rgba(15, 176, 142, 1);
@@ -53,6 +62,7 @@ button {
 button:hover {
     background-color: rgba(15, 176, 142, 0.8);
 }
+
 
 .css {
   color: #03224d;
