@@ -80,5 +80,17 @@ h1 {
   font-family: 'Enriqueta', serif;
   text-align: center;
   font-size: 400%;
-  padding: 20px;
+  padding: 40px;
+}
+
+div.text {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px;
+  font-family: 'Enriqueta', serif;
+  color: white;
+  text-align: center;
+  font-size: 200%;
+  padding: 40px;
 }
