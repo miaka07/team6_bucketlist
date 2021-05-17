@@ -68,6 +68,10 @@ button {
   margin-top: 5px;
 }
 
+div.container button {
+  align-items: center;
+}
+
 button:hover {
     background-color: rgba(15, 176, 142, 0.2);
 }
