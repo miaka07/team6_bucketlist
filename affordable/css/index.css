@@ -112,7 +112,7 @@ h1 {
   padding: 12px 24px;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 10px;
   text-decoration: none;
 }
 
@@ -136,7 +136,7 @@ button.btn {
   padding: 12px 24px;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .container .btn1:hover {
@@ -154,7 +154,7 @@ button.btn {
   padding: 12px 24px;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .container .btn2:hover {
@@ -173,7 +173,7 @@ button.btn {
   padding: 12px 24px;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .container .btn3:hover {
