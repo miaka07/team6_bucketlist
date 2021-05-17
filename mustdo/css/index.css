@@ -72,6 +72,10 @@ button:hover {
     background-color: rgba(15, 176, 142, 0.2);
 }
 
+.container  a {
+  color: white;
+  background-color: transparent;
+}
 
 .feedback {
   color: #03224d;
