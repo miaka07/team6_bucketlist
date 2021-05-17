@@ -117,7 +117,7 @@ button.btn {
 }
 
 .container .btn:hover {
-  background-color: black;
+  background-color: #03224d;
 }
 
 .container .btn1 {
@@ -136,7 +136,7 @@ button.btn {
 }
 
 .container .btn1:hover {
-  background-color: black;
+  background-color: #03224d;
 }
 .container .btn2 {
   position: absolute;
@@ -154,7 +154,7 @@ button.btn {
 }
 
 .container .btn2:hover {
-  background-color: black;
+  background-color: #03224d;
 }
 
 .container .btn3 {
@@ -173,7 +173,7 @@ button.btn {
 }
 
 .container .btn3:hover {
-  background-color: black;
+  background-color: #03224d;
 }
 
 .container  a {
