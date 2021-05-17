@@ -75,6 +75,7 @@ button:hover {
 .container  a {
   color: white;
   background-color: transparent;
+  padding: 10px;
 }
 
 .feedback {
