@@ -49,7 +49,7 @@ button {
   padding: 3px 10px;
   background-color: rgba(15, 176, 142, 1);
   border: none;
-  border-radius: 50px;
+  border-radius: 10px;
   cursor: pointer;
   transition: all 0.3s ease 0s;
 }
@@ -89,5 +89,4 @@ h1 {
 
 div a {
   margin-left: 45%;
-
 }
