@@ -102,7 +102,7 @@ h1 {
 /* Style the button and place it in the middle of the container/image */
 .container .btn {
   position: absolute;
-  top: 96%;
+  top: 140%;
   left: 64%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -126,7 +126,7 @@ button.btn {
 
 .container .btn1 {
   position: absolute;
-  top: 124%;
+  top: 180%;
   left: 37%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -144,7 +144,7 @@ button.btn {
 }
 .container .btn2 {
   position: absolute;
-  top: 158%;
+  top: 230%;
   left: 64%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -163,7 +163,7 @@ button.btn {
 
 .container .btn3 {
   position: absolute;
-  top: 189%;
+  top: 275%;
   left: 34%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
