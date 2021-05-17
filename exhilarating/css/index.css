@@ -23,6 +23,15 @@ h2 {
   background-size: 3%;
 }
 
+button.feedback {
+    padding: 3px 10px;
+    background-color: rgba(15, 176, 142, 1);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
 button {
   margin-top: 70px;
   margin-bottom: 40px;
@@ -79,7 +88,7 @@ button:hover {
     background-color: rgba(15, 176, 142, 0.8);
 }
 
-.css {
+.feedback {
   color: #03224d;
 }
 
