@@ -141,7 +141,7 @@ button:hover {
   padding: 12px 60px;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .container .btn1:hover {
@@ -177,7 +177,7 @@ button:hover {
   padding: 12px 60px;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .container .btn3:hover {
@@ -195,7 +195,7 @@ button:hover {
   padding: 12px 60px;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .container .btn4:hover {
@@ -213,7 +213,7 @@ button:hover {
   padding: 12px 60px;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .container .btn5:hover {
@@ -223,4 +223,9 @@ button:hover {
 .container  a {
   color: white;
   background-color: transparent;
+}
+
+img {
+  border: solid 5px #e96933;
+  border-radius: 10px;
 }
