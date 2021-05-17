@@ -46,6 +46,7 @@ li, a, button {
   font-size: 20px;
   color: #0fb08e;
   background-color: none;
+  text-decoration: none;
 }
 
 header {
@@ -113,7 +114,7 @@ button:hover {
 }
 
 .container .btn:hover {
-  background-color: black;
+  background-color: #03224d;
 }
 .container .btn1 {
   position: absolute;
@@ -131,7 +132,7 @@ button:hover {
 }
 
 .container .btn1:hover {
-  background-color: black;
+  background-color: #03224d;
 }
 .container .btn2 {
   position: absolute;
@@ -149,7 +150,7 @@ button:hover {
 }
 
 .container .btn2:hover {
-  background-color: black;
+  background-color: #03224d;
 }
 .container .btn3 {
   position: absolute;
@@ -167,7 +168,7 @@ button:hover {
 }
 
 .container .btn3:hover {
-  background-color: black;
+  background-color: #03224d;
 }
 .container .btn4 {
   position: absolute;
@@ -185,7 +186,7 @@ button:hover {
 }
 
 .container .btn4:hover {
-  background-color: black;
+  background-color: #03224d;
 }
 .container .btn5 {
   position: absolute;
@@ -203,5 +204,10 @@ button:hover {
 }
 
 .container .btn5:hover {
-  background-color: black;
+  background-color: #03224d;
+}
+
+.container  a {
+  color: white;
+  background-color: transparent;
 }
