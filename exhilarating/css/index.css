@@ -23,6 +23,10 @@ h2 {
   background-size: 3%;
 }
 
+#line {
+  text-decoration: underline;
+}
+
 button.feedback {
     padding: 3px 10px;
     background-color: rgba(15, 176, 142, 1);
