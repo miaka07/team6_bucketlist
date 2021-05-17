@@ -16,6 +16,10 @@ li, a, button {
   text-decoration: none;
 }
 
+#line {
+  text-decoration: underline;
+}
+
 header {
   display: flex;
   justify-content: space-between;
@@ -51,9 +55,39 @@ button {
 }
 
 button:hover {
-    background-color: rgba(15, 176, 142, 0.8);
+  background-color: rgba(15, 176, 142, 0.8);
 }
 
-.css {
+.feedback {
   color: #03224d;
+}
+
+div.main {
+  position: center;
+}
+
+.pic {
+  overflow: hidden;
+  max-width: 100%;
+  padding: 25px;
+}
+
+img {
+  border: solid 5px #e96933;
+  border-radius: 10px;
+  margin-left: 30%;
+}
+
+h1 {
+  text-align: center;
+  color: #03224d;
+  background-color: #e96933;
+  font-family: 'Enriqueta', serif;
+  font-size: 50px;
+  font-weight: 400;
+}
+
+div a {
+  margin-left: 45%;
+
 }
