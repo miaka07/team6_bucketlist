@@ -58,13 +58,14 @@ img {
 margin-left: 30%;
 margin-top: 60px;
 border: solid 5px #e96933;
+border-radius: 10px;
 }
 
 button {
   padding: 3px 10px;
   background-color: rgba(15, 176, 142, 1);
   border: none;
-  border-radius: 5px;
+  border-radius: 10px;
   cursor: pointer;
   position: absolute;
   transition: all 0.3s ease 0s;
