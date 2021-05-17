@@ -76,11 +76,12 @@ img.logo {
 }
 
 h1 {
-  color: white;
-  font-family: 'Enriqueta', serif;
+  color: #03224d;
+  font-family: "Enriqueta", serif;
+  font-weight: 400;
+  font-size: 50px;
+  background-color: #e96933;
   text-align: center;
-  font-size: 400%;
-  padding: 20px;
 }
 
 .container {
@@ -97,8 +98,8 @@ h1 {
 /* Style the button and place it in the middle of the container/image */
 .container .btn {
   position: absolute;
-  top: 138%;
-  left: 65%;
+  top: 96%;
+  left: 64%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #0fb08e;
@@ -108,6 +109,11 @@ h1 {
   border: none;
   cursor: pointer;
   border-radius: 5px;
+  text-decoration: none;
+}
+
+button.btn {
+  color: white;
 }
 
 .container .btn:hover {
@@ -116,8 +122,8 @@ h1 {
 
 .container .btn1 {
   position: absolute;
-  top: 180%;
-  left: 36%;
+  top: 124%;
+  left: 37%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #0fb08e;
@@ -134,8 +140,8 @@ h1 {
 }
 .container .btn2 {
   position: absolute;
-  top: 230%;
-  left: 66%;
+  top: 158%;
+  left: 64%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #0fb08e;
@@ -153,8 +159,8 @@ h1 {
 
 .container .btn3 {
   position: absolute;
-  top: 276%;
-  left: 33%;
+  top: 189%;
+  left: 34%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #0fb08e;
@@ -170,5 +176,7 @@ h1 {
   background-color: black;
 }
 
-.container  a{text-decoration-color: #0fb08e;
+.container  a {
+  color: white;
+  background-color: transparent;
 }
